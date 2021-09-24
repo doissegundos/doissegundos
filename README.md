@@ -18,3 +18,5 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 </div>
+
+   ![Snake animation](https://github.com/rafaballerini/doissegundos/blob/output/github-contribution-grid-snake.svg)
