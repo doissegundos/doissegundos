@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Stefane 👋✌🖖
 
-<!--
-**doissegundos/doissegundos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Eu trabalho com Python.
+- 🌱 Atualmente estou estudando Machine Learning e Processamento Digital de Imagens.
+- 👯 Participo de um projeto de visão computacional no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+- 💬 Meu LinkedIn: https://www.linkedin.com/in/stefaneadna/
+
+<div align="center">
+  <a href="https://github.com/doissegundos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doissegundos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doissegundos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+</div>
