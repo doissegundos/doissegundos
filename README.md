@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Eu trabalho com Python.
+- 🔭 Trabalho com Python.
 - 🌱 Atualmente estou estudando Machine Learning e Processamento Digital de Imagens.
 - 👯 Participo de um projeto de visão computacional no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
 - 💬 Meu LinkedIn: https://www.linkedin.com/in/stefaneadna/
