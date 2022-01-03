@@ -5,6 +5,7 @@
 - 🔭 Trabalho com Python.
 - 🌱 Atualmente estou estudando Machine Learning e Processamento Digital de Imagens.
 - 👯 Participo de um projeto de visão computacional no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+- 👯 Desenvolvedora de Inteligencia Artificial em Lead Dell
 - 💬 Meu LinkedIn: https://www.linkedin.com/in/stefaneadna/
 
 <div align="center">
